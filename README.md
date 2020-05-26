@@ -1,6 +1,5 @@
 # Phone-number-validator
-Program to check is input phone Number is valid acc to condition.
-like:-
+
 Enter Mobile number: 3478ndjh47
 Number must contain digits only
 Enter Mobile number: 3478
